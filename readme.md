@@ -6,4 +6,4 @@ Instrucciones para instalar proyecto1
 
 ## h2
 
-(Google)[www.google.com]
+[Google](www.google.com)
